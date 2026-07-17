@@ -1,0 +1,458 @@
+generated: '2026-07-17'
+method: searched
+source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+summary:
+  portfolio_total: 41
+  in_network: 38
+  api_providers: 23
+  missing: 3
+  stubs_created: 0
+companies:
+- name: Airbnb
+  url: https://www.airbnb.com
+  description: Online marketplace for short-term lodging and travel experiences.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: airbnb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Alibaba Group
+  url: https://www.alibabagroup.com
+  description: Chinese multinational e-commerce, retail, and technology conglomerate.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: lazada
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Anthropic
+  url: https://www.anthropic.com
+  description: AI safety company building the Claude family of large language models.
+  sector: artificial-intelligence
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: anthropic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: AppFolio
+  url: https://www.appfolio.com
+  description: Cloud-based software for property management and legal practices.
+  sector: enterprise-software
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: appfolio
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Atlassian
+  url: https://www.atlassian.com
+  description: Team collaboration and developer software including Jira and Confluence.
+  sector: enterprise-software
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: atlassian
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Chime
+  url: https://www.chime.com
+  description: Consumer fintech offering fee-free mobile banking services.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: chime
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Compass
+  url: https://www.compass.com
+  description: Technology-driven residential real estate brokerage platform.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: compass
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: CRED
+  url: https://cred.club
+  description: Indian fintech app rewarding users for paying credit card bills.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: cred
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Databricks
+  url: https://www.databricks.com
+  description: Data and AI lakehouse platform for analytics and machine learning.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: databricks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Discord
+  url: https://discord.com
+  description: Voice, video, and text chat platform for communities and gamers.
+  sector: consumer-internet
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: discord
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Dollar Shave Club
+  url: https://www.dollarshaveclub.com
+  description: Direct-to-consumer subscription for razors and grooming products.
+  sector: consumer-internet
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dollar-shave-club
+- name: Domo
+  url: https://www.domo.com
+  description: Cloud-based business intelligence and data experience platform.
+  sector: enterprise-software
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: domo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: DoorDash
+  url: https://www.doordash.com
+  description: On-demand local food and goods delivery marketplace.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: doordash
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Etsy
+  url: https://www.etsy.com
+  description: Online marketplace for handmade, vintage, and craft goods.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: etsy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Flipkart
+  url: https://www.flipkart.com
+  description: Indian e-commerce marketplace (majority owned by Walmart).
+  sector: consumer-internet
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: flipkart-marketplace
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Glassdoor
+  url: https://www.glassdoor.com
+  description: Jobs and company-review platform with salary and employer insights.
+  sector: consumer-internet
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: glassdoor
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Gusto
+  url: https://www.gusto.com
+  description: Payroll, benefits, and HR platform for small and midsize businesses.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: gusto
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: HackerOne
+  url: https://www.hackerone.com
+  description: Bug bounty and vulnerability-disclosure security platform.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: hackerone
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Hortonworks
+  url: https://www.cloudera.com
+  description: Enterprise Hadoop big-data platform (merged with Cloudera).
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: cloudera
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Instacart
+  url: https://www.instacart.com
+  description: On-demand grocery delivery and pickup marketplace.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: instacart
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Klarna
+  url: https://www.klarna.com
+  description: Buy-now-pay-later payments and shopping fintech.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: klarna
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: MercadoLibre
+  url: https://www.mercadolibre.com
+  description: Latin American e-commerce and fintech marketplace.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: mercado-libre
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Metropolis Technologies
+  url: https://www.metropolis.io
+  description: Computer-vision platform for checkout-free parking and mobility.
+  sector: artificial-intelligence
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  in_network: false
+  is_api_provider: false
+  suggested_slug: metropolis-technologies
+- name: New Relic
+  url: https://www.newrelic.com
+  description: Observability and application performance monitoring platform.
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: microsoft-azure
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Nubank
+  url: https://www.nubank.com.br
+  description: Latin American digital bank and fintech (Nu Holdings).
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: nubank
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: OpenAI
+  url: https://www.openai.com
+  description: AI research and deployment company behind ChatGPT and GPT models.
+  sector: artificial-intelligence
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: openai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Procore
+  url: https://www.procore.com
+  description: Cloud construction management software platform.
+  sector: enterprise-software
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: procore
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Redfin
+  url: https://www.redfin.com
+  description: Technology-powered residential real estate brokerage.
+  sector: consumer-internet
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: redfin
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ResearchGate
+  url: https://www.researchgate.net
+  description: Professional network and repository for scientists and researchers.
+  sector: consumer-internet
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  in_network: false
+  is_api_provider: false
+  suggested_slug: researchgate
+- name: Roblox
+  url: https://www.roblox.com
+  description: Online gaming and user-generated experiences platform.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: roblox
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Slack
+  url: https://slack.com
+  description: Team messaging and collaboration platform (acquired by Salesforce).
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: slack
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Snap
+  url: https://www.snap.com
+  description: Camera and social media company behind Snapchat.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: snapchat
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Snowflake
+  url: https://www.snowflake.com
+  description: Cloud data platform for storage, analytics, and data sharing.
+  sector: enterprise-software
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: snowflake
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Spotify
+  url: https://www.spotify.com
+  description: Audio streaming platform for music and podcasts.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: spotify
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Strava
+  url: https://www.strava.com
+  description: Social fitness network for tracking running and cycling activity.
+  sector: consumer-internet
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: strava
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Tekion
+  url: https://www.tekion.com
+  description: Cloud-native automotive retail platform for dealerships and OEMs.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: tekion
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Uber
+  url: https://www.uber.com
+  description: Global ride-hailing, delivery, and mobility marketplace.
+  sector: consumer-internet
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: uber
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: UiPath
+  url: https://www.uipath.com
+  description: Robotic process automation and AI automation platform.
+  sector: enterprise-software
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: uipath
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Waymo
+  url: https://www.waymo.com
+  description: Autonomous driving technology company (Alphabet subsidiary).
+  sector: artificial-intelligence
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: waymo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Wealthfront
+  url: https://www.wealthfront.com
+  description: Automated investing and robo-advisory fintech platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: wealthfront
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Whatfix
+  url: https://www.whatfix.com
+  description: Digital adoption platform for in-app guidance and onboarding.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+  slug: whatfix
+  in_network: true
+  is_api_provider: true
+  matched_by: domain

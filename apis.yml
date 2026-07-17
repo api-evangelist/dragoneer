@@ -1,0 +1,70 @@
+aid: dragoneer
+name: Dragoneer Investment Group
+description: >-
+  Dragoneer Investment Group is a San Francisco-based growth-oriented investment firm founded in 2012 by
+  Marc Stad, a former TPG Capital and McKinsey investor. Dragoneer deploys long-duration capital across both
+  public and private markets, concentrating on late-stage, high-growth technology companies rather than
+  early-stage seed bets. In private markets it runs growth-equity funds that back category-leading private
+  technology companies; in public markets it manages long-only strategy funds invested in listed technology
+  businesses. Its capital comes from institutional limited partners including endowments, foundations,
+  sovereign wealth funds, and family offices, and the firm is known for a patient, concentrated,
+  founder-friendly approach that avoids traditional turnover. Dragoneer manages roughly $22B-$30B+ in assets
+  under management (2024-2025), with sector focus spanning enterprise software, fintech and financial
+  services, consumer internet, and artificial intelligence. The firm also sponsored a series of Dragoneer
+  Growth Opportunities SPACs (which took CCC Intelligent Solutions and Cvent public) and is headquartered at
+  the Letterman Digital Arts Center in San Francisco. Notable investments include Uber, Airbnb, Snowflake,
+  Databricks, Slack, Spotify, DoorDash, Nubank, OpenAI, and Anthropic.
+image: https://cdn.prod.website-files.com/67d468571abba14b3eeb3ed0/67e3fcd6515adb64f6692812_Dragoneer.svg
+x-type: venture-capital
+x-category: Growth Equity
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Growth Equity
+  - Late Stage
+  - Crossover
+  - Artificial Intelligence
+  - Fintech
+  - Enterprise
+  - Consumer Internet
+  - Technology
+  - San Francisco
+  - North America
+apis: []
+common:
+  - type: Website
+    url: https://www.dragoneer.com/
+  - type: Portfolio
+    url: portfolio/dragoneer-portfolio.yml
+  - type: Contact
+    url: https://www.dragoneer.com/contact
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/dragoneer-investment-group
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/dragoneer-investment-group-llc
+  - type: Features
+    data:
+      - "Stage: Growth / Late-stage (private growth equity + public long-only)"
+      - "Sectors: enterprise software, fintech & financial services, consumer internet, artificial intelligence"
+      - "Geography: Global technology; HQ United States"
+      - "AUM: ~$22.6B (2024), reported $30B+ (late 2025)"
+      - "Founded: 2012"
+      - "Founder: Marc Stad"
+      - "HQ: Letterman Digital Arts Center, San Francisco, California, USA"
+      - "Structure: Long-duration institutional capital (endowments, foundations, sovereign wealth funds, family offices)"
+    sources:
+      - https://www.dragoneer.com/
+      - https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
+      - https://www.linkedin.com/company/dragoneer-investment-group-llc
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Dragoneer Investment Group
+    email: information@dragoneer.com
+    url: https://www.dragoneer.com/
