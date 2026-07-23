@@ -3,9 +3,9 @@ method: searched
 source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
 summary:
   portfolio_total: 41
-  in_network: 38
-  api_providers: 23
-  missing: 3
+  in_network: 41
+  api_providers: 22
+  missing: 0
   stubs_created: 0
 companies:
 - name: Airbnb
@@ -125,9 +125,10 @@ companies:
   stage: growth
   status: acquired
   source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dollar-shave-club
+  slug: dollar-shave-club
+  matched_by: domain
 - name: Domo
   url: https://www.domo.com
   description: Cloud-based business intelligence and data experience platform.
@@ -168,7 +169,7 @@ companies:
   stage: growth
   status: acquired
   source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
-  slug: flipkart-marketplace
+  slug: flipkart
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -256,9 +257,10 @@ companies:
   stage: growth
   status: active
   source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: metropolis-technologies
+  slug: metropolis-technologies
+  matched_by: domain
 - name: New Relic
   url: https://www.newrelic.com
   description: Observability and application performance monitoring platform.
@@ -321,9 +323,10 @@ companies:
   stage: growth
   status: active
   source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: researchgate
+  slug: researchgate
+  matched_by: domain
 - name: Roblox
   url: https://www.roblox.com
   description: Online gaming and user-generated experiences platform.
@@ -353,9 +356,9 @@ companies:
   stage: growth
   status: ipo
   source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
-  slug: snapchat
+  slug: snap
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Snowflake
   url: https://www.snowflake.com

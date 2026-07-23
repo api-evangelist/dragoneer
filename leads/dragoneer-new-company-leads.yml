@@ -1,25 +1,4 @@
-generated: '2026-07-17'
+generated: '2026-07-22'
 method: derived
 source_vc: dragoneer
-leads:
-- name: Dollar Shave Club
-  url: https://www.dollarshaveclub.com
-  suggested_slug: dollar-shave-club
-  sector: consumer-internet
-  source_vc: dragoneer
-  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
-  stub_created: false
-- name: Metropolis Technologies
-  url: https://www.metropolis.io
-  suggested_slug: metropolis-technologies
-  sector: artificial-intelligence
-  source_vc: dragoneer
-  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
-  stub_created: false
-- name: ResearchGate
-  url: https://www.researchgate.net
-  suggested_slug: researchgate
-  sector: consumer-internet
-  source_vc: dragoneer
-  source: https://en.wikipedia.org/wiki/Dragoneer_Investment_Group
-  stub_created: false
+leads: []

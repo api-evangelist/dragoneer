@@ -14,6 +14,17 @@ description: >-
   Growth Opportunities SPACs (which took CCC Intelligent Solutions and Cvent public) and is headquartered at
   the Letterman Digital Arts Center in San Francisco. Notable investments include Uber, Airbnb, Snowflake,
   Databricks, Slack, Spotify, DoorDash, Nubank, OpenAI, and Anthropic.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://cdn.prod.website-files.com/67d468571abba14b3eeb3ed0/67e3fcd6515adb64f6692812_Dragoneer.svg
 x-type: venture-capital
 x-category: Growth Equity
